@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
     <head>
         <!-- head definitions go here -->
